@@ -2,7 +2,7 @@
 ## Represents a date as a value object
 
 _Copyright (c) 2008-2011 Will Bond, others_.
-[http://flourishlib.com/license](http://flourishlib.com/license)
+_Please see the LICENSE file at the root of this distribution_
 
 #### Namespace
 
