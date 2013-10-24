@@ -2,7 +2,7 @@
 	"name": "dotink/flourish-datetime",
 	"description": "Useful classes for working with dates and times",
 	"keywords": ["date", "time", "timestamp"],
-	"license": "AGPL 3.0",
+	"license": "AGPL-3.0",
 	"type": "opus-package",
 	"authors": [
 		{
